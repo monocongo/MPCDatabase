@@ -1,13 +1,12 @@
 # Database of Small Planets in the Solar System
 
 Dealing with the data of more than ~700,000 minor bodies in the Solar
-System could be challenging.  The *Minor Planeet Center* (MPC)
+System could be challenging.  The *Minor Planet Center* (MPC)
 publishes regularly updates of the database in different formats (see
 http://www.minorplanetcenter.net/data).
 
 An efficient way to deal with this information is having it stored as
-a MySQL database.  This is precisely the purpose of this simple
-package.
+a MySQL database. This is precisely the purpose of this simple package.
 
 We provide here an up-to-date version of the MPC database in a format
 that can be manipulated in a MySQL server.  Once the MPC database is
